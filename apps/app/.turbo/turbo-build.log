@@ -1,0 +1,36 @@
+
+> @my-project/app@1.0.0 build
+> expo export
+
+Starting Metro Bundler
+Web Bundled 1955ms apps\app\index.ts (414 modules)
+iOS Bundled 5478ms apps\app\index.ts (766 modules)
+Android Bundled 7890ms apps\app\index.ts (778 modules)
+
+› Assets (35):
+..\..\node_modules\@react-navigation\elements\lib\module\assets\back-icon-mask.0a328cd9c1afd0afe8e3b1ec5165b1b4.png (653 B)
+..\..\node_modules\@react-navigation\elements\lib\module\assets\back-icon-mask.png (653 B)
+..\..\node_modules\@react-navigation\elements\lib\module\assets\back-icon.35ba0eaec5a4f5ed12ca16fabeae451d.png (207 B)
+..\..\node_modules\@react-navigation\elements\lib\module\assets\back-icon.png (8 variations | 359 B)
+..\..\node_modules\@react-navigation\elements\lib\module\assets\clear-icon.c94f6478e7ae0cdd9f15de1fcb9e5e55.png (4 variations | 425 B)
+..\..\node_modules\@react-navigation\elements\lib\module\assets\clear-icon.png (4 variations | 425 B)
+..\..\node_modules\@react-navigation\elements\lib\module\assets\close-icon.808e1b1b9b53114ec2838071a7e6daa7.png (4 variations | 235 B)
+..\..\node_modules\@react-navigation\elements\lib\module\assets\close-icon.png (4 variations | 235 B)
+..\..\node_modules\@react-navigation\elements\lib\module\assets\search-icon.286d67d3f74808a60a78d3ebf1a5fb57.png (928 B)
+..\..\node_modules\@react-navigation\elements\lib\module\assets\search-icon.png (7 variations | 592 B)
+
+› web bundles (1):
+_expo/static/js/web/index-df71356da9b227748098df5a7de49cde.js (697 kB)
+
+› ios bundles (1):
+_expo/static/js/ios/index-18d85ff238573109309df0b94685c57a.hbc (1.98 MB)
+
+› android bundles (1):
+_expo/static/js/android/index-5a575a09df338562edc4b51c1cdd2843.hbc (1.99 MB)
+
+› Files (3):
+favicon.ico (14.5 kB)
+index.html (1.22 kB)
+metadata.json (2.67 kB)
+
+Exported: dist

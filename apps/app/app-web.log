@@ -1,0 +1,12 @@
+Starting project at C:\Users\user\2my-app\apps\app
+Starting Metro Bundler
+Waiting on http://localhost:8081
+Logs for your project will appear below.
+Web Bundled 8771ms apps\app\index.ts (461 modules)
+Web Bundled 36ms apps\app\index.ts (1 module)
+Web Bundled 37ms apps\app\index.ts (1 module)
+Web Bundled 184ms apps\app\index.ts (1 module)
+Web Bundled 37ms apps\app\index.ts (1 module)
+Web Bundled 29ms apps\app\index.ts (1 module)
+Web Bundled 188ms apps\app\index.ts (1 module)
+Web Bundled 76ms apps\app\index.ts (1 module)
